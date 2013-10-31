@@ -1,0 +1,1 @@
+This is the first Tealeaf Academy exercise in Week 1 that is a BlackJack game played from the command line.
